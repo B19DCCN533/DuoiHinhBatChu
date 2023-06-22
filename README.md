@@ -1,2 +1,2 @@
 # DuoiHinhBatChu
- Game Duoi Hinh Bat Chu
+ Game Duoi Hinh Bat Chu by Android Studio
